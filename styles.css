@@ -1,0 +1,32 @@
+button {
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    background-color: darkblue;
+    color: gold;
+    height: 35px;
+    flex: 1;
+    margin: 5%;
+}
+div.container0 {
+    height: 85vh;
+    width: auto;
+    background-color:royalblue;
+    display: flex;
+    align-items: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 78px;
+}
+p {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: gold;
+}
+div.container1 {
+    background-color: royalblue;
+    margin-top: -270px;
+    
+}
